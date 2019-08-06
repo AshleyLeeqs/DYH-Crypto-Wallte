@@ -282,6 +282,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u19_ann {
+  position:absolute;
+  left:332px;
+  top:116px;
+  width:1px;
+  height:1px;
+}
 #u21_div {
   position:absolute;
   left:0px;
@@ -613,4 +620,38 @@
   top:0px;
   width:71px;
   white-space:nowrap;
+}
+#u41_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:220px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u41 {
+  position:absolute;
+  left:79px;
+  top:536px;
+  width:220px;
+  height:40px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u42 {
+  position:absolute;
+  left:2px;
+  top:11px;
+  width:216px;
+  word-wrap:break-word;
 }
