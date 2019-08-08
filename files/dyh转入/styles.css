@@ -111,7 +111,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:100px;
+  width:58px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -123,16 +123,16 @@
 }
 #u359 {
   position:absolute;
-  left:139px;
+  left:160px;
   top:145px;
-  width:100px;
+  width:58px;
   height:20px;
 }
 #u360 {
   position:absolute;
   left:0px;
   top:0px;
-  width:100px;
+  width:58px;
   white-space:nowrap;
 }
 #u361_img {
@@ -449,7 +449,7 @@
 #u383 {
   position:absolute;
   left:162px;
-  top:250px;
+  top:253px;
   width:57px;
   height:20px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
